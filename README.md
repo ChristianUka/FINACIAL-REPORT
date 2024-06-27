@@ -1,4 +1,4 @@
-# SALES-REPORT
+# FINACIAL-REPORT
 ## Project Overview
 This project seeks to get insights on executive summary of the company sales for the period under review.
 ## Tools
