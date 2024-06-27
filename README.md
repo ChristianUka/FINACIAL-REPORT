@@ -1,6 +1,6 @@
 # FINACIAL-REPORT
 ## Project Overview
-This project seeks to get insights on executive summary of the company sales for the period under review.
+This project seeks to get insights on executive summary of the company finacial sales report for the period under review.
 ## Tools
 - Excel - Data Cleaning
 - Power BI - Creating Report
