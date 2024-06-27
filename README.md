@@ -20,7 +20,7 @@ In the initail data preparation phase, I performed the following task:
       -  The year that has the highest revenue.
       -  Month that has the highest revenue.
       -  Where the company making the most revenue.
-      -  Which Product is to selling.
+      -  Which Product is top selling.
       -  Who is the best Salesperson.
   ## Data Analysis
  <img width="602" alt="image" src="https://github.com/ChristianUka/SALES-REPORT/assets/173649418/8bd4e42b-c2f4-4971-b6a6-e5c570d5ba18">
