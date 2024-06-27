@@ -32,7 +32,7 @@ In the initail data preparation phase, I performed the following task:
   2. Total quantity of product sold is 7997
   3. The year 2011 has the highest revenue
   4. December is the month with highest revenue with over 78% higher than the least month March
-  5. Kano state gives the company the most revenue with over 78,000 contribution
+  5. Kano state gives the company the most revenue with over #780,000 contribution
   6. Eva water is the product with highest revenue
   7. Coca Cola is the top selling product
   8. Vaugha Harlon is the best sales person
