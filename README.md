@@ -1,9 +1,16 @@
-# FINACIAL-REPORT
+# FINANCIAL-REPORT
+This project seeks to get insights on executive summary of the company finacial sales report regarding the supply of goods across various cities. I used Advanced Excel for Data Cleansing and PowerBI to create the report and dashboard for the Management. This project enabled the Management to make informed decision on the financial performance of the company.
+
 ## Project Overview
 This project seeks to get insights on executive summary of the company finacial sales report for the period under review.
+
+[Click here to view my dashboard](https://app.powerbi.com/groups/me/reports/8f095292-c1eb-47ad-b253-6a6ba092079f/ReportSection?experience=power-bi)
+
 ## Tools
 - Excel - Data Cleaning
 - Power BI - Creating Report
+
+
 
   ## Data Cleaning/Preparation
 In the initail data preparation phase, I performed the following task:
