@@ -4,7 +4,7 @@ This project seeks to get insights on executive summary of the company finacial 
 ## Project Overview
 This project seeks to get insights on executive summary of the company finacial sales report for the period under review.
 
-[Click here to view my dashboard](https://app.powerbi.com/groups/me/reports/8f095292-c1eb-47ad-b253-6a6ba092079f/ReportSection?experience=power-bi)
+[Click here to view my dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTMwZjc4N2UtMzExNC00YWQ3LWI3M2EtZDlhNzM4MWFkZWEwIiwidCI6IjlmNGVmYWExLTI3N2EtNGE3OS1iN2NmLWUzMDkzYjMyOGU5OSJ9)
 
 ## Tools
 - Excel - Data Cleaning
